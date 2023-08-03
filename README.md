@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tolga.</h1>
 <h3 align="center">A passionate computer science student from Turkey, living in Dublin, Ireland.</h3>
 
-- 🌱 I’m currently learning **Node.js and SpringBoots.**
+- 🌱 I’m currently learning **MongoDB, ExpressJS, React and Node.js.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tolgabp](https://github.com/tolgabp)
 
