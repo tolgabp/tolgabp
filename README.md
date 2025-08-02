@@ -1,7 +1,7 @@
 # Hi, I'm Tolga.
 
 **Let's ship a project a day!**
-Portfolio website: https://tolgabp.github.io/tolga/
+Portfolio website: https://tolgabp.com/
 
 **In progress**
 Micro Services, Cloud Native applications and DevOps.
